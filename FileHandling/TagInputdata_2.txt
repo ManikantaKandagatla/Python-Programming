@@ -1,0 +1,35 @@
+[organization]
+[field]
+Product development
+[/field]
+[divisions]
+[division]
+[name]
+Reasearch and development
+[/name]
+[location]
+Hyderabad, Sandeago
+[/location]
+[/location]
+
+
+
+[orgcount]
+1200
+
+
+[/orgcount]
+[/division]
+[division]
+[name]
+Client Support
+[/name]
+[location]
+Hyderabad, Sandeago
+[/location]
+[orgcount]
+2500
+[/orgcount]
+[/division]
+[/divisions]
+[/organization]
